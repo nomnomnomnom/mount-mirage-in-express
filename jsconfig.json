@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "ESNext",
+    "target": "ESNext"
+  },
+  "exclude": ["node_modules", "./example.js", "test"]
+}
